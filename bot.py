@@ -85,4 +85,4 @@ async def banall(ctx):
             except Exception:
                 pass
 
-bot.run("YOUR_BOT_TOKEN_HERE")
+bot.run("MTUzOTMwMDIwODQ5NDc3NjQ1Mw.GFXNdE.Xw6Sg4Ek_498dAVCv4dAykdq0dbdfQtsi5rkBQ")
