@@ -85,4 +85,5 @@ async def banall(ctx):
             except Exception:
                 pass
 
-bot.run("YOUR_BOT_TOKEN_HERE")
+import os
+bot.run(os.environ.get("DISCORD_BOT_TOKEN"))
